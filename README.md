@@ -9,6 +9,7 @@ Adapted to use with debian repos of wkhtmltopdf (Error: QXcbConnection: Could no
 ## Installation
 
 Original: https://github.com/wkhtmltopdf/wkhtmltopdf
+
 Install on debian:
 
 apt-get install wkhtmltopdf
